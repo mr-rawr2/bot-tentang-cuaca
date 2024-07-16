@@ -1,8 +1,8 @@
-#bot-perubahan-iklim
-##ide projek
+# bot-perubahan-iklim
+## ide projek
 bot ini akan memberi informasi tentang cuaca, penyebab perubahan iklim dan cara mencegah
-##bahan dan template
+## bahan dan template
 bahanya adalah main.py, gambar, video bagi tambahan
-##library
+## library
 1.python
 2.discord.py
