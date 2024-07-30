@@ -131,4 +131,4 @@ async def cek_derajat(ctx):
     suhu = data['main']['temp']
     await ctx.send(f'suhu di {kota} adalah {round(suhu)-237}°C')
 
-bot.run("MTI2NTI4Mzc5ODIyNDg2MzI5Mw.G5ScxV.qhBZ7xocVq1q6-u2yCTXIiCbfdjIr_fov9oqgs")
+bot.run("BOT TOKEN")
